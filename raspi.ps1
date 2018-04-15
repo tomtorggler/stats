@@ -1,5 +1,5 @@
 # pull latest changes
-cd tomtorggler.github.io
+cd stats
 git pull
 
 . ./MiningStats.ps1
