@@ -1,4 +1,4 @@
-title: Mining Statistics
+title: io.tomt.it
 baseurl: "/stats" # the subpath of your site, e.g. /blog
 url: "https://io.tomt.it" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: Europe/Rome
