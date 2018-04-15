@@ -1,0 +1,23 @@
+{% assign mydata = mydata | reverse %}
+<table>
+    <thead>
+        <th>TimeStamp</th>
+        <th>Uptime</th>
+        <th>HashRate</th>
+        <th>T. max</th>
+        <th>Fan 1</th>
+        <th>Fan 2</th>
+    </thead>
+    <tbody>
+    {% for row in mydata %}
+        <tr>
+            <td>{{ row.TimeStamp }}</td>
+            <td>{{ row.Uptime }}</td>
+            <td>{{ row.HashRate }}</td>
+            <td>{{ row.T_max }}</td>
+            <td>{{ row.Fan_1 }}</td>
+            <td>{{ row.Fan_2 }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>

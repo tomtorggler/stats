@@ -1,0 +1,13 @@
+title: Mining Statistics
+baseurl: "/stats" # the subpath of your site, e.g. /blog
+url: "https://io.tomt.it" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Europe/Rome
+social_sites:
+  twitter: torggler
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+include: 
+  - hist

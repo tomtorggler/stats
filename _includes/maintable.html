@@ -1,0 +1,30 @@
+{% assign mydata=site.data %}
+<table>
+    <thead>
+        <th>Host</th>
+        <th>Updated</th>
+        <th>Uptime</th>
+        <th>Rate</th>
+        <th>T. max</th>
+        <th>ASIC</th>
+    </thead>
+    {% for file in mydata %}
+        {% if file[0] contains 'stats' %}
+            {% assign myfiledata = file[1] | reverse %}
+            {% for column in myfiledata limit:1 %}
+            {% assign filetime = column.TimeStamp | date: "%s" %}
+            <tbody>
+                <tr>
+                    <td><a href="/hist/{{ column.Host }}">{{ column.Host }}</a></td>
+                    <td>{{ 'now' | date: "%s" | minus: filetime | date: "%s" | divided_by: 60  }} min</td>
+                    <td>{{ column.Uptime }}</td>
+                    <td>{{ column.HashRate }}</td>
+                    <td>{{ column.T_max }}</td>
+                    <td>{{ column.ASIC }}</td>
+                </tr> 
+            </tbody>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</table>
+
