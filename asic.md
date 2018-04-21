@@ -21,7 +21,7 @@ permalink: /asic/
             {% for column in myfiledata limit:1 %}
             <tbody>
                 <tr>
-                    <td><a href="/hist/{{ column.Host }}asic">{{ column.Host }}</a></td>
+                    <td><a href="{{ site.baseurl }}/hist/{{ column.Host }}asic">{{ column.Host }}</a></td>
                     <td>{{ column.Freq }}</td>
                     <td>{{ column.ASIC_1 }}</td>
                     <td>{{ column.ASIC_2 }}</td>

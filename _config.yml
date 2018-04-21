@@ -14,3 +14,4 @@ include:
 
 exclude:
    - reveal.js/*.md
+

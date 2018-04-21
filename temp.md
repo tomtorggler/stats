@@ -21,7 +21,7 @@ permalink: /temp/
             {% for column in myfiledata limit:1 %}
             <tbody>
                 <tr>
-                    <td><a href="/hist/{{ column.Host }}temp">{{ column.Host }}</a></td>
+                    <td><a href="{{ site.baseurl }}/hist/{{ column.Host }}temp">{{ column.Host }}</a></td>
                     <td>{{ column.T_1 }}</td>
                     <td>{{ column.T_2 }}</td>
                     <td>{{ column.T_3 }}</td>
