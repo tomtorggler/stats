@@ -1,5 +1,4 @@
 "TimeStamp","Host","Uptime","HashRate","Freq","T_max","ASIC","T_1","ASIC_1_Status","ASIC_1","T_2","ASIC_2_Status","ASIC_2","T_3","ASIC_3_Status","ASIC_3","T_4","ASIC_4_Status","ASIC_4","Fan_1","Fan_2"
-"2018-05-07 20:00:09","l32","128.65","545.72","419","54","OK","63","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","0","62","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","384","63","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","0","60","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","13","2580","2610"
 "2018-05-07 20:30:08","l32","129.15","545.72","419","54","OK","63","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","0","62","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","386","63","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","0","60","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo","13","2580","2610"
 "2018-05-07 21:00:26","l32","-","-","-","-","-","","","","","","","","","","","","","",""
 "2018-05-07 21:30:11","l32","-","-","-","-","-","","","","","","","","","","","","","",""
@@ -499,3 +498,4 @@
 "2018-05-18 04:30:11","l32","-","-","-","-","-","","","","","","","","","","","","","",""
 "2018-05-18 05:00:11","l32","-","-","-","-","-","","","","","","","","","","","","","",""
 "2018-05-18 05:30:11","l32","-","-","-","-","-","","","","","","","","","","","","","",""
+"2018-05-18 06:00:12","l32","-","-","-","-","-","","","","","","","","","","","","","",""
