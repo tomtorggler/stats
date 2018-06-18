@@ -1,5 +1,4 @@
 "TimeStamp","Host","Uptime","HashRate","Freq","T_max","ASIC","T_1","ASIC_1_Status","ASIC_1","T_2","ASIC_2_Status","ASIC_2","T_3","ASIC_3_Status","ASIC_3","Fan_1","Fan_2"
-"2018-04-25 00:10:36","s91","81.38","13772.78","687","62","OK","77","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","2135","69","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","24","69","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","27","4800","5640"
 "2018-04-25 00:40:35","s91","81.88","13773.58","687","62","OK","77","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","2136","69","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","24","68","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","27","4800","5640"
 "2018-04-25 01:10:35","s91","82.38","13772.98","687","61","OK","76","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","2136","69","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","24","68","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","28","4800","5640"
 "2018-04-25 01:40:35","s91","82.88","13773.17","687","62","OK","77","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","2137","69","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","25","68","oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo oooooooo ooooooo","29","4800","5640"
@@ -499,4 +498,4 @@
 "2018-06-18 14:10:17","s91","-","-","-","-","-","","","","","","","","","","",""
 "2018-06-18 14:40:17","s91","-","-","-","-","-","","","","","","","","","","",""
 "2018-06-18 15:10:17","s91","-","-","-","-","-","","","","","","","","","","",""
-"2018-06-18 15:40:17","s91","-","-","-","-","-",,,,,,,,,,,
+"2018-06-18 15:40:17","s91","-","-","-","-","-","","","","","","","","","","",""
